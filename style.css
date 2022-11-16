@@ -18,7 +18,7 @@ nav {
     
 }
 
-[href="#^Top"] {
+[href="#Top"] {
     position:fixed;
     bottom:0px;
     right:0px;
@@ -31,7 +31,7 @@ nav {
     
   }
 
-  [href="#^Top"]:hover {
+  [href="#Top"]:hover {
     position:fixed;
     bottom:0px;
     right:0px;
