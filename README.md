@@ -1,2 +1,3 @@
 # Photo Gallery
- Assignment for Module 2 - GIT337
+
+Link: https://jlrb0.github.io/Photo-Gallery/
